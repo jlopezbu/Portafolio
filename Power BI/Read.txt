@@ -1,0 +1,2 @@
+Este reporte de Power BI lo construí para la Corporación Universitaria Remington, por lo que los derechos sobre él son de su propiedad así como los datos que expone. 
+Su visualización en este portafolio sólo se hace con fines informativos. La base de datos fue debidamente anonimizada para mayor seguridad.
